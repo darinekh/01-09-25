@@ -1,3 +1,5 @@
+// Définition d'un tableau nommé "players" qui contient tous les joueurs
+
 const players = [
   {
     "name": "Lionel Messi",
